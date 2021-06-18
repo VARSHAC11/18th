@@ -1,4 +1,4 @@
-JSON OBJECT
+var obj=
 {
 Name:Varsha,
 Gender:Female,
