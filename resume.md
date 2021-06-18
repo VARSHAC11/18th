@@ -1,4 +1,5 @@
 JSON OBJECT
+{
 Name:Varsha
 Gender:Female
 Age:19
@@ -10,3 +11,4 @@ School:Amrita Vidyalayam
 College:Hindusthan College of Engineering and Technology
 Current Semester:5
 Previous Semester Marks:10CGPA
+}
